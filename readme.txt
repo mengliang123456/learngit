@@ -3,5 +3,5 @@ Git is free software.
 yes
 no
 new student 
-101:
+many-101
 
